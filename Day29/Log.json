@@ -1,0 +1,7 @@
+{
+  "algorithm": "A* (Manhattan)",
+  "path_length": null,
+  "time_seconds": 0.0,
+  "grid_size": "20x20",
+  "found": false
+}
